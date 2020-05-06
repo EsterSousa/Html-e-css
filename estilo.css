@@ -1,0 +1,23 @@
+
+/*Formatação geral */
+body{
+	font-family: "Fjalla+One&family", cursive
+}
+
+h1, h2,h3{
+	 margin: 0;
+	 font-family: "Philosopher&family", cursive;
+	 font-weight: 700px;}
+p{
+	font-family: "Jost&family",cursive;}
+
+/* Cabeçalho barra de navageção */
+.logo img{border-radius: 50%;}
+
+  nav { 
+  	display:flex;
+	flex-direction: column;
+	align-items:center;
+	background-color: #D2691E;
+	padding:50px;
+}
